@@ -5,7 +5,7 @@ Content Management System built in PHP
  
 + Dashboard
 
-<img src = "includes/output/dashboard_img.JPG" >
+<img src = "includes/output/dashboard.JPG">
 
 + Posts 
 
