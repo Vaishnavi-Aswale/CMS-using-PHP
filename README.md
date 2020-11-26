@@ -1,8 +1,15 @@
 # CMS-using-PHP
 Content Management System built in PHP
  
- 
- 
+ The blogs which are published will be shown in the Home page.
++ Home
+<img src = "includes/output/Home.JPG">
+
+The new users/admin can create their account by registering themselves
++ Registration
+<img src = "includes/output/register.JPG">
+
+Admin will get a view of the posts,comments through the dashboard
 + Dashboard
 
 <img src = "includes/output/dashboard.JPG">
@@ -25,12 +32,6 @@ Content Management System built in PHP
 
 <img src = "includes/output/categories.JPG">
 
+The comments which are approved will be shown below blog posts.
 + Comments
 <img src = "includes/output/Comments.JPG">
-
-+ Home
-<img src = "includes/output/Home.JPG">
-
-+Registration
-<img src = "includes/output/register.JPG">
-
