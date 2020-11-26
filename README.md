@@ -31,3 +31,6 @@ Content Management System built in PHP
 + Home
 <img src = "includes/output/Home.JPG">
 
++Registration
+<img src = "includes/output/register.JPG">
+
